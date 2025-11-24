@@ -38,7 +38,7 @@ total snow depth could be relevant because it reflects storage.
 Plot Snowfall in Washington Cascades during ENSO Phases (1950–2004) and 
 Percentage Difference in Snowfall (Strong vs Weak ENSO Phases).
 
-### Science Question (answered by Copilt GPT-5)
+### Science Question (answered by Copilot GPT-5)
 
 How does the snowfall amount compare between strong and weak ENSO phases in the Washington Cascades?
 
