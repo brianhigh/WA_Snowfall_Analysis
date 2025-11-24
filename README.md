@@ -21,7 +21,7 @@ faster) or colder La Niña winters (where snow persists longer).
 - If your goal is to correlate ENSO with snowfall production, new snowfall is
 the cleaner metric because it isolates the precipitation component.
 
-### When Total Snowfall Might Matter:
+### When total snowfall might matter:
 
 - If you're studying water resource availability or snowpack for hydrology,
 total snow depth could be relevant because it reflects storage.
