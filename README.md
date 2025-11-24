@@ -49,4 +49,4 @@ How does the snowfall amount compare between strong and weak ENSO phases in the 
 
 ![Snowfall in Washington Cascades during ENSO Phases (1950–2004)](https://github.com/brianhigh/WA_Snowfall_Analysis/blob/main/figures/Snowfall_in_Washington_Cascades_during_ENSO_Phases_by_Site.png)
 
-![Percentage Difference in Snowfall (Strong vs Weak ENSO Phases)](https://github.com/brianhigh/WA_Snowfall_Analysis/blob/Percentage_Difference_in_Snowfall_by_Site_and_ENSO_Phase.png)
+![Percentage Difference in Snowfall (Strong vs Weak ENSO Phases)](https://github.com/brianhigh/WA_Snowfall_Analysis/blob/main/figures/Percentage_Difference_in_Snowfall_by_Site_and_ENSO_Phase.png)
