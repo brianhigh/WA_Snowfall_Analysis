@@ -11,6 +11,12 @@ color data points according to ENSO designation (El Niño, La Niña, Neutral)
 
 How do El Niño & La Niña climate patterns relate to snowfall in WA Cascades?
 
+#### Copilot GPT-5 Key Takaway:
+
+- El Niño → less snow, higher freezing levels, rain-on-snow events possible.
+- La Niña → more snow, colder storms, better ski seasons.
+- Strength matters: Strong La Niña = big snow years; weak La Niña = modest boost.
+
 ### Should we plot new or total snowfall? (answered by Copilot GPT-5)
 
 #### Why new snowfall is more useful:
