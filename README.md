@@ -26,3 +26,9 @@ the cleaner metric because it isolates the precipitation component.
 - If you're studying water resource availability or snowpack for hydrology,
 total snow depth could be relevant because it reflects storage.
 - But for climate signal detection, new snowfall is generally preferred.
+
+## Results
+
+![Monthly Avg. New Snowfall at WA Cascade Passes Scatter Plot](https://github.com/brianhigh/WA_Snowfall_Analysis/blob/main/figures/monthly_avg_new_snowfall_wa_cascade_passes.png)
+
+![Monthly Avg. New Snowfall at WA Cascade Passes Bar Plot](https://github.com/brianhigh/WA_Snowfall_Analysis/blob/main/figures/monthly_avg_new_snowfall_wa_cascade_passes_bar.png)
