@@ -10,8 +10,8 @@
 # - Add El Niño data for full ENSO comparison.
 #   Show percentage snowfall difference.
 # - Write an R script which reproduces this analysis, including generation of 
-# all plots, as well as the web scraping steps needed to download and import 
-# the necessary data.
+#   all plots, as well as the web scraping steps needed to download and import 
+#   the necessary data.
 #
 # Several manual edits were made to this code, as noted in the comments below.
 # ------------------------------------------------------------------------------
@@ -21,7 +21,7 @@ library(rvest)
 library(dplyr)
 library(ggplot2)
 library(tidyr)
-library(readr)
+library(readr)        # Added this manually for reading and writing CSV files
 library(here)         # Added this manually for reproducible file paths
 library(RColorBrewer) # Added this manually to support a custom palette
 library(forcats)      # Added this manually to support reodering factors
