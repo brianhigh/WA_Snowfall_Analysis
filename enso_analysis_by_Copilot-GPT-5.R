@@ -54,8 +54,8 @@ if(!file.exists(input_file)) {
   data <- data[-1, ] %>% drop_na(TotalYears) %>% 
     filter(ENSOPhase != 'Overall Average') %>%
     filter(str_detect(TotalYears, 'Max|Min', negate = TRUE)) %>%
-    mutate(across(everything(), str_remove, '"')) %>%
-    mutate(across(-ENSOPhase, as.numeric)) %>%
+    mutate(across(everything(), \(x) str_remove(x, '"'))) %>%
+    mutate(across(-ENSOPhase, \(x) as.numeric(x))) %>%
     select(
       matches('ENSO|Holden|Stevens|Snoq|Stampede|Paradise|Longmire')) %>%
     pivot_longer(-ENSOPhase, names_to = 'Site', values_to = 'Depth') %>%
